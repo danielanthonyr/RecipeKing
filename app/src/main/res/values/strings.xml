@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecipeKing</string>
+    <string name="yay_fragments">yay fragments</string>
+    <string name="new_text">new text</string>
+</resources>
